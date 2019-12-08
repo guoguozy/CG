@@ -1,0 +1,1 @@
+- 建议查看[report.md](readme.md)，因为转为PDF，HTML可能会出现查看不了动图以及格式错误的问题。  
